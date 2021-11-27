@@ -203,4 +203,35 @@ public class StringProgram2 {
 // {-5,-1,4,22,1,0,2,-22} - multiply pair of two elements find the max product of pair and print out
 
 //July 5th:
-// Array problem - 2 4 5 0 0 5 4 6 0 6 8 0 0, push all the zeros to the end, if previous 
+// Array problem - 2 4 5 0 0 5 4 6 0 6 8 0 0, push all the zeros to the end, if previous
+
+//July 10th
+// 1 2 3
+//4 5 6
+//7 8 9 two dime array print in this order 1 2 3 6 9 8 7 4 5
+
+///July 12th
+//Print the elements which are common in all the rows and columns of the matrix.
+// input
+// 1 2 3
+//4 1 3
+//3 3 1 - // output should be {1,3}
+
+//July 14th
+//find the smallest missing positive integer in an array
+//input {1,0,4,5,-1} output: 2 3
+
+// pascal programm {1}{1,1}{1,2,1} - refer the one note map
+
+// July 17th
+// Find the sub matrix of a matrix whose sum is is equal to given number
+//input:
+//        1 2 3
+//        4 5 6
+//        7 8 9
+//        sum is 12
+//        output:
+//        1 2
+//        4 5
+
+

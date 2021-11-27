@@ -10,5 +10,5 @@ public class ForLoopWithContinue {
         }
     }
 
-    //
+    // The importance of "continue" key word always play key role when We have to skp particular condition and proceed with next iteration in loop.
 }

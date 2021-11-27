@@ -25,7 +25,5 @@ public class HashMapRepeatedCharInAGivenString {
             System.out.print(m.getKey() + ":");
             System.out.println(m.getValue());
         }
-
     }
-
 }

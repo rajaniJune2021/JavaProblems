@@ -37,13 +37,6 @@ public class HashMapCheckGivenStringISAnagramOrNot {
         } else {
             System.out.println("given two string lengths are different");
         }
-
-
-
-
-
     }
-
-
 }
 

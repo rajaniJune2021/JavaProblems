@@ -10,15 +10,7 @@ public class TwoDimensionalArrayFindTheSumOfDiagonalElementsOfMatrix {
 
     public static void main(String[] args) {
         int A [][] = {{1,2,3},{4,5,6},{7,8,9}};
-        int[][] a;
-        int[][] b;
-        int[][] c;
-        int firstArrayRow;
-        int FirstArrayCol;
-        int SecondArrayRow;
-        int SecondArrayCol;
-        int ThirdArrayRow;
-        int ThirdArrayCol;
+
         int rowCount =3;
         int colCount =3;
         int sum =0;

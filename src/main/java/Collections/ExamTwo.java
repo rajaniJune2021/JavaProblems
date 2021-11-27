@@ -11,8 +11,6 @@ package Collections;
 
 //Input: 1234567890
 //        Output: yes
-
-
 import java.util.HashSet;
 import java.util.Set;
 
@@ -69,6 +67,5 @@ public class ExamTwo {
         }else {
             System.out.println("given number is not panagram");
         }
-
     }
 }
